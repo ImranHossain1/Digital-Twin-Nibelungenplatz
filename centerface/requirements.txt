@@ -1,0 +1,4 @@
+opencv-python >= 4.7.0.68
+opencv-contrib-python >= 4.7.0.68
+numpy >= 1.24.1
+virtualenv >= 20.13.0

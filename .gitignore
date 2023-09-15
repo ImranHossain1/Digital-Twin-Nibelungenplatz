@@ -1,0 +1,17 @@
+# Repo-specific GitIgnore
+*.bmp
+*.tif
+*.tiff
+*.BMP
+*.TIF
+*.TIFF
+*.mp4
+*.mov
+*.MOV
+*.avi
+*.data
+*.cfg
+*.zip
+*.json
+# General
+*.DS_Store
